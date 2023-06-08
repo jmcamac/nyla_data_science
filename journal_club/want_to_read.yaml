@@ -1,0 +1,6 @@
+# This file contains a list of papers we want to read.
+journals:
+  - title: Evaluation of Synthetic Data Generation Techniques in the Domain of Anonymous Traffic Classification
+    url: https://ieeexplore.ieee.org/abstract/document/9980373
+  - title: "Cybersecurity data science: an overview from machine learning perspective"
+    url: https://link.springer.com/article/10.1186/s40537-020-00318-5
