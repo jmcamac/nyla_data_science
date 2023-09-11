@@ -1,6 +1,8 @@
 # This file contains a list of papers we want to read.
 papers:
-  - title: Evaluation of Synthetic Data Generation Techniques in the Domain of Anonymous Traffic Classification
-    url: https://ieeexplore.ieee.org/abstract/document/9980373
   - title: Attention is All You Need
     url: https://arxiv.org/pdf/1706.03762.pdf
+  - title: Modern Reinforcement Learning Techniques to Deal with Large Action Spaces
+    url: https://dataspace.princeton.edu/handle/88435/dsp01vm40xv717
+  - title: MurTree: Optimal Decision Trees via Dynamic Programming and Search
+    url: https://jmlr.org/papers/volume23/20-520/20-520.pdf

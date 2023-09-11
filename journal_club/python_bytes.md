@@ -26,4 +26,4 @@
 
 # Miscellaneous
 - [regex](https://pypi.org/project/regex/)
-- gsp-py [generalized sequence pattern](https://github.com/jacksonpradolima/gsp-py) ( like association rule mining with order of elements taken into account)
+- gsp-py [generalized sequence pattern](https://github.com/jacksonpradolima/gsp-py) (like association rule mining with order of elements taken into account)
