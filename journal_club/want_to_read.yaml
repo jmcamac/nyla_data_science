@@ -2,6 +2,8 @@
 papers:
   - title: Attention is All You Need
     url: https://arxiv.org/pdf/1706.03762.pdf
+  - title: Generative Agents: Interactive Simulacra of Human Behavior
+    url: https://arxiv.org/abs/2304.03442
   - title: Modern Reinforcement Learning Techniques to Deal with Large Action Spaces
     url: https://dataspace.princeton.edu/handle/88435/dsp01vm40xv717
   - title: MurTree: Optimal Decision Trees via Dynamic Programming and Search
