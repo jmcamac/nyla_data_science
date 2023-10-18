@@ -2,9 +2,13 @@
 papers:
   - title: Attention is All You Need
     url: https://arxiv.org/pdf/1706.03762.pdf
-  - title: Generative Agents: Interactive Simulacra of Human Behavior
-    url: https://arxiv.org/abs/2304.03442
   - title: Modern Reinforcement Learning Techniques to Deal with Large Action Spaces
     url: https://dataspace.princeton.edu/handle/88435/dsp01vm40xv717
   - title: MurTree: Optimal Decision Trees via Dynamic Programming and Search
     url: https://jmlr.org/papers/volume23/20-520/20-520.pdf
+  - title: Graph-based Time-Series Anomaly Detection
+    url: https://arxiv.org/abs/2302.00058
+  - title: Graph based Anomaly Detection and Description: A Survey
+    url: https://www.andrew.cmu.edu/user/lakoglu/pubs/14-dami-graphanomalysurvey.pdf
+  - title: Attack Plan Recognition and Prediction Using Causal Networks
+    url: https://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=8C9152ED379F6B32C6B50A80B9775CE4?doi=10.1.1.85.853&rep=rep1&type=pdf
