@@ -1,5 +1,7 @@
 # This file contains a list of papers we've read.
 papers:
+  - title: Generative Agents: Interactive Simulacra of Human Behavior
+    url: https://arxiv.org/abs/2304.03442
   - title: Evaluation of Synthetic Data Generation Techniques in the Domain of Anonymous Traffic Classification
     url: https://ieeexplore.ieee.org/abstract/document/9980373
   - title: "Cybersecurity data science: an overview from machine learning perspective"
