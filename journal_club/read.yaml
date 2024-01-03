@@ -1,5 +1,7 @@
 # This file contains a list of papers we've read.
 papers:
+  - title: Graph-based Time-Series Anomaly Detection
+    url: https://arxiv.org/abs/2302.00058
   - title: Generative Agents: Interactive Simulacra of Human Behavior
     url: https://arxiv.org/abs/2304.03442
   - title: Evaluation of Synthetic Data Generation Techniques in the Domain of Anonymous Traffic Classification
