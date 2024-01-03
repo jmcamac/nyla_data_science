@@ -6,8 +6,6 @@ papers:
     url: https://dataspace.princeton.edu/handle/88435/dsp01vm40xv717
   - title: MurTree: Optimal Decision Trees via Dynamic Programming and Search
     url: https://jmlr.org/papers/volume23/20-520/20-520.pdf
-  - title: Graph-based Time-Series Anomaly Detection
-    url: https://arxiv.org/abs/2302.00058
   - title: Graph based Anomaly Detection and Description: A Survey
     url: https://www.andrew.cmu.edu/user/lakoglu/pubs/14-dami-graphanomalysurvey.pdf
   - title: Attack Plan Recognition and Prediction Using Causal Networks
