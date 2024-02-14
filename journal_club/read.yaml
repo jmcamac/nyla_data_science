@@ -1,5 +1,7 @@
 # This file contains a list of papers we've read.
 papers:
+  - title: Review of ML and AutoML Solutions to Forecast Time-Series Data
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9159649/
   - title: Graph-based Time-Series Anomaly Detection
     url: https://arxiv.org/abs/2302.00058
   - title: Generative Agents: Interactive Simulacra of Human Behavior
